@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTesting", "DbTesting\DbTesting.csproj", "{B4B910BD-988B-4799-8A7B-A2A1D33F5656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbTestingUT", "DbTestingUT\DbTestingUT.csproj", "{73E9A0CA-10BD-44B1-A1CB-499E780E5A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B910BD-988B-4799-8A7B-A2A1D33F5656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B910BD-988B-4799-8A7B-A2A1D33F5656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B910BD-988B-4799-8A7B-A2A1D33F5656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B910BD-988B-4799-8A7B-A2A1D33F5656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E9A0CA-10BD-44B1-A1CB-499E780E5A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E9A0CA-10BD-44B1-A1CB-499E780E5A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E9A0CA-10BD-44B1-A1CB-499E780E5A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E9A0CA-10BD-44B1-A1CB-499E780E5A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713975A2-3D11-4324-A627-0068B7F14975}
+	EndGlobalSection
+EndGlobal
